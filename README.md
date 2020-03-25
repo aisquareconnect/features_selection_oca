@@ -5,7 +5,7 @@
 ## Content
 We provided herein 
 - the anonmyzed data set 
-- and the ptyhon code 
+- and the python code 
 used for the paper 'Feature selection with optimal coordinate ascent (OCA)'
 
 ## Get Feedback
